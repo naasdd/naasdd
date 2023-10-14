@@ -2,14 +2,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naasdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naasdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
 </div>
-
-###
 
 <br clear="both">
 
@@ -26,13 +22,14 @@
   <img width="20" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
 </div>
+
+###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
-<img align="right" height="330" src="https://cdn.glitch.global/86247ecb-38c3-4a76-88b7-ec25e09be333/d6ea8096-641c-4c17-8a17-b1e8a0dc33d3.image.png?v=1697258652833"  />
 
-###
+<img align="right" height="330" src="https://cdn.glitch.global/86247ecb-38c3-4a76-88b7-ec25e09be333/d6ea8096-641c-4c17-8a17-b1e8a0dc33d3.image.png?v=1697258652833"  />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes})
 
@@ -40,20 +37,13 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=tokyo-night"/>
 
-###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ORIGINAL -->
 
-
-<div> <a href="https://github.com/naasdd" target="_blank">
+<div align="center"> <a href="https://github.com/naasdd" target="_blank">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=tokyonight" height="180em" />
 </div>
 
 
-
-
-
-
-
-
+<!-- ORIGINAL -->
