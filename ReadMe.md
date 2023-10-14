@@ -1,4 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ###
 
@@ -24,6 +26,7 @@
   <img width="20" />
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
 
@@ -33,4 +36,24 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes})
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=tokyo-night"/>
+
 ###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- ORIGINAL -->
+
+
+<div> <a href="https://github.com/naasdd" target="_blank">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=tokyonight" height="180em" />
+</div>
+
+
+
+
+
+
+
+
