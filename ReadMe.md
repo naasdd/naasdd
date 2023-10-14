@@ -1,4 +1,5 @@
-<h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI<h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -44,6 +45,7 @@
 <div align="center"> <a href="https://github.com/naasdd" target="_blank">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=tokyonight" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <!-- ORIGINAL -->
