@@ -13,15 +13,15 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="60" alt="javascript logo"  />
-  <img width="170" />
+  <img width="40" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="60" alt="html5 logo"  />
-  <img width="170" />
+  <img width="40" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="60" alt="css3 logo"  />
 </div>
 
 ###
 
-<img align="right" height="350" src="https://lh5.googleusercontent.com/kHKlrOiXZEDjJUk4FrvumjIOIcoJP97y6Bk6OalAi8w-7oSpaJwXqdL8ZxpR_x68gtvaaoi8ddQXpZo99Dr24hJwBhoR8XSAlsFsHfW-tfZQiGSVqseGMch3rWgEKYW8VA=w1280"  />
+<img align="right" height="350" src="https://cdn.glitch.global/86247ecb-38c3-4a76-88b7-ec25e09be333/d1833c4d-c109-4353-8680-f3c97268d6ea.image.png?v=1697257780508"  />
 
 ###
 
