@@ -4,8 +4,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naasdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naasdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=naasdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naasdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=dark&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
 <br clear="both">
@@ -36,22 +36,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=tokyo-night"/>
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=react"/> -->
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naasdd&theme=monokai&hide_border=true"/>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <div align="center"> <a href="https://github.com/naasdd" target="_blank">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=dark" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
+<div>
 
-  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=mapompeo&repo=projeto-redes&border_color=6ba7ff&bg_color=00001c79&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/mapompeo/projeto-redes)
+  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=mapompeo&repo=projeto-redes&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/mapompeo/projeto-redes)
 
-  [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=naasdd&repo=Gerenciamento-Clash&border_color=6ba7ff&bg_color=00001c79&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/naasdd/gerenciamento-clash)
+  [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=naasdd&repo=Gerenciamento-Clash&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/naasdd/gerenciamento-clash)
 </div>
 
 
