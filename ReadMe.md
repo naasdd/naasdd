@@ -36,8 +36,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=react"/> -->
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=naasdd&theme=monokai&hide_border=true"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=naasdd&theme=monokai"/>
+
 
 
 
@@ -49,12 +49,10 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mapompeo&repo=projeto-redes&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff" width=49.7% height=120px>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naasdd&repo=Gerenciamento-Clash&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff" width=49.7% height=120px>
 
-  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=mapompeo&repo=projeto-redes&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/mapompeo/projeto-redes)
 
-  [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=naasdd&repo=Gerenciamento-Clash&border_color=6ba7ff&theme=dark&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/naasdd/gerenciamento-clash)
-</div>
 
 
 
