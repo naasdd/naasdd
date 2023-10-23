@@ -47,5 +47,14 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+
+  [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=mapompeo&repo=projeto-redes&border_color=6ba7ff&bg_color=00001c79&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/mapompeo/projeto-redes)
+
+  [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=naasdd&repo=Gerenciamento-Clash&border_color=6ba7ff&bg_color=00001c79&title_color=C9D1D9&text_color=8B949E&icon_color=6ba7ff)](https://github.com/naasdd/gerenciamento-clash)
+</div>
+
+
+
 
 <!-- ORIGINAL -->
