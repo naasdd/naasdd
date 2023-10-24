@@ -1,15 +1,11 @@
-<link rel="stylesheet" type="text/css" href="style.css">
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI.<h2>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
-<div align="center" class="primeiraSessao">
+
+<div align="center" class="primeiraSessao" bgcolor="red" style="padding: 10px;">
   <img class="coisastatus" src="https://github-readme-stats.vercel.app/api?username=naasdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img class="coisastatus" src="https://github-readme-stats.vercel.app/api/top-langs?username=naasdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=dark&hide_border=true" height="160" alt="languages graph"  />
 </div>
@@ -41,8 +37,8 @@
 <img align="left" height="340" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes}"  />
 
 <div align="center" class="exemplo">
-  <img align="center" height="310px" src="https://media.tenor.com/_MwsIyn4YxQAAAAi/funny-meme.gif">
-</div>
+  <img align="center"  height="340px" src="https://media.tenor.com/A2UGuAXfHEUAAAAC/cat-laptop.gif">
+  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -58,9 +54,11 @@
 
 
 <div align="center"> <a href="https://github.com/naasdd" target="_blank">
+
 </div>
-
-
+<img align="center"  height="340px" src="https://media.tenor.com/sQ2eMwPh9v4AAAAC/error-code.gif">
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
