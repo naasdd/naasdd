@@ -1,8 +1,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI.<h2>
+<h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI.</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <div align="center" class="primeiraSessao" bgcolor="red" style="padding: 10px;">
@@ -31,13 +31,11 @@
 
 ###
 
-<img align="right" height="330" src="https://tenor.com/view/funny-meme-monke-bonzi-gif-25891209"  />
+<img align="left" height="340" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes}"/>
 
 
-<img align="left" height="340" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes}"  />
-
-<div align="center" class="exemplo">
   <img align="center"  height="340px" src="https://media.tenor.com/A2UGuAXfHEUAAAAC/cat-laptop.gif">
+
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
