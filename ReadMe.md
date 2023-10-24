@@ -23,23 +23,25 @@
   <img class="iconTRELLO" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" height="30" alt="trello logo"  />
 </div>
 
+###
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ###
-
 
 <img align="right" height="330" src="https://tenor.com/view/funny-meme-monke-bonzi-gif-25891209"  />
 
 
 <img align="left" height="340" class="spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=22hwmeaxnuepcj4upfwx6rvci&unique={true|1|on|yes}"  />
 
-<div class="pengui">
+<div align="center" class="pengui">
   <img align="center" src="https://media.tenor.com/0U4XKeAaSxsAAAAi/clapping-gif-club-penguin.gif">
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div class="divSTATUSFINAL"><img align="center" class="statusFINAL" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=dark" height="180em" />
-</div>
+
+
+<div  align="center" class="divSTATUSFINAL">
+<img class="statusFINAL" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naasdd&theme=dark" height="180em" /> </div>
 
 
 
