@@ -1,9 +1,13 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left" style="color: white; font-size: 26px;">Olá 👋! Meu nome é José, estudo programação no SENAI<h2>
+<h2 align="left">Olá 👋! Meu nome é José, estudo programação no SENAI<h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align="center" style="background-color: rgb(21,21,21); border-radius: 20px; padding: 20px 0px 30px 0px; box-shadow: 0px 0px 90px rgb(30,30,70);">
+<div align="center" class="primeiraSessao">
   <img style="padding-bottom: 30px;" src="https://github-readme-stats.vercel.app/api?username=naasdd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="160" alt="stats graph"  />
   <img style="padding-bottom: 30px; " src="https://github-readme-stats.vercel.app/api/top-langs?username=naasdd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&&theme=dark&hide_border=true" height="160" alt="languages graph"  />
   <img style="border-radius: 7px; box-shadow:0px 0px 12px yellow" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
@@ -50,4 +54,4 @@
 
 
 
-<!-- ORIGINAL -->
+
