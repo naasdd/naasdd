@@ -3,7 +3,7 @@
   <h2 align="center">Olá 👋! Meu nome é José, estudo programação no SENAI.</h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <div style="width: 100%; height: 60px; display: flex; justify-content: center; align-items: center;">
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div style="width: 100%; display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <img align="center"  height="340px" src="https://c.tenor.com/hmDMrE1yMAkAAAAC/tenor.gif">
 </div>
 
