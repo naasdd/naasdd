@@ -1,7 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-  <h2 align="center">Olá! Meu nome é José, estudo Ciência da Computação.</h2>
+<h2 align="center">Olá! Meu nome é José, estudo Ciência da Computação.</h2>
 
 <br>  
   
@@ -15,12 +14,11 @@
 <br>
 
   <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,bash,express,figma,git,jest,mysql,nodejs,sequelize" />
-  </a>
-</p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,html,css,c,bash,express,figma,git,jest,mysql,nodejs,sequelize" />
+    </a>
+  </p>
   
 
 
- 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
